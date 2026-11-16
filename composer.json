@@ -2,11 +2,11 @@
     "name": "fahoba/example-language",
     "description": "A language pack, deliberately incomplete: French for the first screens, English for the rest — template and test bed",
     "type": "library",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "license": "MIT",
     "require": {
         "php": "^8.5",
-        "fahoba/plugin-api": "^0.1"
+        "fahoba/plugin-api": "^0.1 || ^0.2"
     },
     "autoload": {
         "psr-4": {
